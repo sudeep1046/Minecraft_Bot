@@ -54,4 +54,4 @@ async def credits(ctx):
 keep_alive()
 
 # 🔐 Paste your token between the quotes below
-bot.run("MTM4NjM3MzU1MzM5NzY5ODcwMw.GdnCVM.ikNqqypBAVqNl4k8cvo_zTsvR2CGZ9zQ-fzY1k")
+bot.run("PASTE YOUR TOKEN")
