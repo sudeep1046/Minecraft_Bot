@@ -1,16 +1,16 @@
-Minecraft Discord Bot
+⛏️ Minecraft Discord Bot
 
-A simple Discord bot built in Python to manage and enhance your Minecraft server experience.
+A simple yet powerful Discord bot built in Python to manage and enhance your Minecraft server experience — all from your Discord server.
 
 ✨ Features
 
-🎮 Start/stop your Minecraft server directly from Discord
+🎮 Start/Stop your Minecraft server directly from Discord
 
-⏱️ Show server status (online/offline, player count, etc.)
+⏱️ Check server status (online/offline, player count, etc.)
 
-📢 Notify when the server goes online/offline
+📢 Notifications when the server goes online/offline
 
-🔧 Easy to configure with environment variables
+🔧 Easy configuration with environment variables
 
 ⚙️ Installation
 
@@ -25,7 +25,8 @@ Install dependencies
 pip install -r requirements.txt
 
 
-Create a .env file in the root folder and add your bot token and server details:
+Setup environment variables
+Create a .env file in the root folder and add:
 
 DISCORD_TOKEN=your_discord_bot_token
 SERVER_IP=your.minecraft.server.ip
@@ -38,9 +39,7 @@ python bot.py
 
 🚀 Usage
 
-Invite the bot to your Discord server
-
-Use commands like:
+Invite the bot to your Discord server, then use commands like:
 
 !start → Start the server
 
@@ -50,13 +49,17 @@ Use commands like:
 
 🛠️ Tech Stack
 
-Python
+🐍 Python
 
-discord.py
+🤖 discord.py
 
 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
+Contributions are always welcome!
+
+Open an issue to discuss new features/bugs.
+
+Create a pull request with your improvements.
 
 📜 License
 
