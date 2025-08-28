@@ -1,4 +1,4 @@
-#minecraft discord bot
+
 ⛏️ Minecraft Discord Bot
 
 A simple yet powerful Discord bot built with Python that lets you manage and monitor your Minecraft server directly from Discord. Perfect for small communities, friends, or anyone who wants a seamless way to control their server without constantly logging into the console.
